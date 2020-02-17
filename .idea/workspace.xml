@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58ccffa-2e99-4ae5-8a0c-c19447da3a94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="b58ccffa-2e99-4ae5-8a0c-c19447da3a94" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XulkHjgWiNU9VYcFJshvl4ljnL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581904003052</updated>
-      <workItem from="1581904007340" duration="2433000" />
+      <workItem from="1581904007340" duration="2708000" />
     </task>
     <servers />
   </component>
